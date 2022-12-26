@@ -5,5 +5,6 @@ Working title:
 
 **"How to take SMART SKETCHNOTES with Obsidian and Zettelkasten"**
 
+<img src="/Visuals/Cover - e1.png" width="250" />
 
 First published at LinkedIn 25.04.2022: https://www.linkedin.com/posts/groepl_networked-thinking-with-smart-sketchnotes-activity-6924654277005086720-B1xz
