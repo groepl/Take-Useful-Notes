@@ -13,4 +13,5 @@ A Zettelkasten is a personal tool for thinking and writing. It has hypertextual 
 
 More about: https://www.soenkeahrens.de/en/takesmartnotes
 
+## References
 First published at LinkedIn 25.04.2022: https://www.linkedin.com/posts/groepl_networked-thinking-with-smart-sketchnotes-activity-6924654277005086720-B1xz
