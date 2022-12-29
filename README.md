@@ -15,3 +15,6 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 ## References
 First published at LinkedIn 25.04.2022: https://www.linkedin.com/posts/groepl_networked-thinking-with-smart-sketchnotes-activity-6924654277005086720-B1xz
+
+## Contact
+Please leave feedback here in the [GitHub discussions](https://github.com/groepl/Smart-Sketchnotes/discussions) or file a new issue if you found a bug or have a feature request.
