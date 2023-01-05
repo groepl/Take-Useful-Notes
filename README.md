@@ -3,7 +3,7 @@
 ![](https://badgen.net/github/watchers/groepl/Smart-Sketchnotes/?icon=github) 
 ![](https://badgen.net/github/stars/groepl/Smart-Sketchnotes?icon=github) 
 ![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) 
-![](https://badgen.net/twitter/follow/groepl?icon=github) 
+![](https://badgen.net/twitter/follow/groepl?icon=twitter) 
 ![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
 
 # Smart Sketchnotes
