@@ -1,3 +1,11 @@
+![](https://badgen.net/github/release/groepl/Smart-Sketchnotes/?icon=github) 
+![](https://badgen.net/github/releases/groepl/Smart-Sketchnotes/?icon=github) 
+![](https://badgen.net/github/watchers/groepl/Smart-Sketchnotes/?icon=github) 
+![](https://badgen.net/github/stars/groepl/Smart-Sketchnotes?icon=github) 
+![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) 
+![](https://badgen.net/twitter/follow/groepl?icon=github) 
+![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
+
 # Smart Sketchnotes
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice. Working title:
 **How to take SMART SKETCHNOTES with Obsidian and Zettelkasten**
