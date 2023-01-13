@@ -25,7 +25,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 ## Sketchnotes
 Sketchnotes is a way of taking notes using drawings and illustrations, along with words. It was created by a man named Mike Rohde. It allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
 
-More about: 
+More about: https://rohdesign.com/handbook
 
 ## References
 - First published at [LinkedIn](https://www.linkedin.com/posts/groepl_networked-thinking-with-smart-sketchnotes-activity-6924654277005086720-B1xz) 25.04.2022.
