@@ -23,7 +23,7 @@ Zettelkasten is a personal tool for thinking and writing created by Niklas Luhma
 More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 ## Sketchnotes
-Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde. It allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
+Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
 
 More about: https://rohdesign.com/handbook
 
