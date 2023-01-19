@@ -13,7 +13,7 @@ My first book was about Digital Sketchnotes. Now I have support from my Zettelka
 <img src="/Visuals/Cover - e1.png" width="250" />
 
 ## Obsidian
-Obsidian is a note-taking and knowledge management app on top of a local folder of plain text Markdown files. It lets you turn a collection of plain text files into a rich network of linked thought.
+Obsidian is a note-taking and knowledge management app from Shida Li and Erica Xu. It works on top of a local folder of plain text Markdown files. It lets you turn a collection of plain text files into a rich network of linked thought.
 
 More about: https://obsidian.md
 
