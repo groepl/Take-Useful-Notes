@@ -6,7 +6,7 @@
 ![](https://badgen.net/twitter/follow/groepl?icon=twitter) 
 ![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
 
-# Take Useful Notes
+# TAKE USEFUL NOTES
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice. Working title:
 **How to TAKE USEFUL NOTES with Obsidian and Zettelkasten**
 
