@@ -9,7 +9,7 @@
 # TAKE USEFUL NOTES
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **How to TAKE USEFUL NOTES with Obsidian and Zettelkasten**
 
-<img src="/Visuals/Cover - e1.png" width="250" />
+<img src="/Visuals/take useful notes cover.png" width="250" />
 
 ## Obsidian
 Obsidian is a note-taking and knowledge management app from Shida Li and Erica Xu. It works on top of a local folder of plain text Markdown files and lets you turn a collection of plain text files into a rich network of linked thought.
