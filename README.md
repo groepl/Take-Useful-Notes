@@ -11,6 +11,11 @@ My first book was about Digital Sketchnotes. Now I have support from my Zettelka
 
 <img src="/Visuals/take useful notes cover.png" width="250" />
 
+## Sketchnotes
+Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
+
+More about: https://rohdesign.com/handbook
+
 ## Obsidian
 Obsidian is a note-taking and knowledge management app from Shida Li and Erica Xu. It works on top of a local folder of plain text Markdown files and lets you turn a collection of plain text files into a rich network of linked thought.
 
@@ -21,10 +26,6 @@ Zettelkasten is a personal tool for thinking and writing created by Niklas Luhma
 
 More about: https://www.soenkeahrens.de/en/takesmartnotes
 
-## Sketchnotes
-Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
-
-More about: https://rohdesign.com/handbook
 
 ## References
 - First published at [LinkedIn](https://www.linkedin.com/posts/groepl_networked-thinking-with-smart-sketchnotes-activity-6924654277005086720-B1xz) 25.04.2022.
