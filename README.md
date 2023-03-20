@@ -9,7 +9,7 @@
 # TAKE USEFUL NOTES
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **TAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten.**
 
-<img src="/Visuals/take useful notes cover.png" width="250" />
+<img src="/Visuals/take useful notes_14.png" width="250" />
 
 ## Sketchnotes
 Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
