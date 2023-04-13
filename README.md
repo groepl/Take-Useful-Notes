@@ -12,7 +12,7 @@ My first book was about Digital Sketchnotes. Now I have support from my Zettelka
 <img src="/Visuals/take_useful_notes_14.png" width="250" />
 
 ## Sketchnotes
-Sketchnotes are a way of taking notes using drawings and illustrations, along with words. It was created by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
+Sketchnotes are a way of taking notes using drawings and illustrations, along with words. The sketchnote concept was coined by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
 
 More about: https://rohdesign.com/handbook
 
