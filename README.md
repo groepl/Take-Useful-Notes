@@ -7,7 +7,7 @@
 ![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
 
 # TAKE USEFUL NOTES
-My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **TAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten.**
+My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **[TAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)**
 
 <img src="/Visuals/take_useful_notes_14.png" width="250" />
 
