@@ -17,6 +17,8 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 <small>Podcast: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a</small>
 
+[link](https://www.linkedin.com/posts/groepl_the-book-is-at-beta-reading-stage-publication-activity-7411356696914157568-jAFa/)
+
 # History
 **11.01.2022**
 
