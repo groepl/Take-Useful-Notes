@@ -22,9 +22,11 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 - My first book was about "Digital Sketchnotes". 
 
 **05.03.2022**<br>
-- Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: [MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)
-
+- Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: [MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)<br>
 <img src="/Visuals/Cover_e1_2_small.png" width="250" />
+
+**10.09.2025**<br>
+- The Minimalist's Zettelkasten, v.01
 
 ## Sketchnotes
 Sketchnotes are a way of taking notes using drawings and illustrations, along with words. The sketchnote concept was coined by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
