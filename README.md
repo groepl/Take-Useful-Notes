@@ -32,7 +32,7 @@ Simple rules to start with from: [The Minimalist’s Zettelkasten](https://www.l
 
 <img src="/Visuals/Cover_e1_2_small.png" width="150" />
 
-- _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf)_.
+- _[Make Useful Notes](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf)_.
 - My second book project.
 - Project stopped with v.18 and 233 pages to start new project.
 - Increasing complexity evolving from the established outline needs a fresh start.
