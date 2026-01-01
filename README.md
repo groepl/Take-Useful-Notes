@@ -24,6 +24,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 **05.03.2022**
 
 <img src="/Visuals/Cover_e1_2_small.png" width="150" />
+
 - _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_, v.01. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice.
 
 **10.09.2025**<br>
