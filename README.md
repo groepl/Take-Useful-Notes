@@ -18,7 +18,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 <small>Download: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a</small>
 
 # History
-**11.01.2022**
+**11.01.2022**<br>
 My first book was about "Digital Sketchnotes". 
 
 **05.03.2022**
