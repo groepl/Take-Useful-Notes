@@ -15,9 +15,8 @@ Most productivity systems promise to help you capture everything. This book offe
 
 The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. 
 
-<small>Podcast: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a</small>
-
-[link](https://www.linkedin.com/posts/groepl_the-book-is-at-beta-reading-stage-publication-activity-7411356696914157568-jAFa/)
+Podcast: [link](https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a)
+[Simple Rules](https://www.linkedin.com/posts/groepl_the-book-is-at-beta-reading-stage-publication-activity-7411356696914157568-jAFa/)
 
 # History
 **11.01.2022**
