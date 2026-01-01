@@ -19,14 +19,15 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 # History
 **11.01.2022**<br>
-- _Digital Sketchnotes_, v.01. My first book project. 
+- _Digital Sketchnotes_, v.01. My first book project.
+- Project stopped with v.31 to start new project. Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
 
 **05.03.2022**
 
 <img src="/Visuals/Cover_e1_2_small.png" width="150" />
 
-- _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_, v.01.
-- Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice.
+- _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_, v.01. My second book project.
+- Project stopped with 
 
 **10.09.2025**<br>
 - The Minimalist's Zettelkasten, v.01
