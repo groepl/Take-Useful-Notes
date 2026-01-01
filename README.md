@@ -19,7 +19,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 # History
 **11.01.2022**<br>
-- My first book was about "Digital Sketchnotes". 
+- "Digital Sketchnotes". My first book project. 
 
 **05.03.2022**<br>
 - Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: [MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)<br>
