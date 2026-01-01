@@ -18,7 +18,10 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 <small>Download: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a</small>
 
 # History
-**11.01.2022**<br>
+**11.01.2022**
+
+<img src="/Visuals/digital_sketchnotes_v33.png" width="150" />
+
 - _Digital Sketchnotes_. My first book project.
 - Project stopped with v.33 and 184 pages to start new project. Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
 
