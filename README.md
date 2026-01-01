@@ -22,21 +22,24 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 <img src="/Visuals/digital_sketchnotes_v33.png" width="150" />
 
-- _Digital Sketchnotes_. My first book project.
+- _Digital Sketchnotes_.
+- My first book project.
 - Project stopped with v.33 and 184 pages to start new project. Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
 
 **05.03.2022**
 
 <img src="/Visuals/Cover_e1_2_small.png" width="150" />
 
-- _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_. My second book project.
+- _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_.
+- My second book project.
 - Project stopped with v.18 and 233 pages to start new project. Increasing complexity evolving from the established outline needs a fresh start.
 
 **10.09.2025**
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="100" />
 
-- _The Minimalist's Zettelkasten_. My third book project.
+- _The Minimalist's Zettelkasten_.
+- My third book project.
 - Now at v.20 and in the beta-reading stage.
 - Self-publishing on KDP is planned for early 2026.
 
