@@ -20,7 +20,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 # History
 **11.01.2022**<br>
 - _Digital Sketchnotes_, v.01. My first book project.
-- Project stopped with v.31 to start new project. My focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
+- Project stopped with v.31 to start new project. Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
 
 **05.03.2022**
 
