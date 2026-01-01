@@ -11,6 +11,9 @@ Stop drowning in notes. Start thinking clearly. Most productivity systems promis
 
 The Minimalist's Zettelkasten strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work.
 
+<img src="/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
+The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. Download: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a
+
 # History
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **[MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)**
 
