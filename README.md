@@ -13,7 +13,7 @@ Most productivity systems promise to help you capture everything. This book offe
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="200" />
 
-"The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl is set to be independently published in early 2026. 
+_The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gröpl, is set to be independently published in early 2026. 
 
 For readers who want to put these principles into practice, I’ve created two open resources on GitHub:
 -	[Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates): minimal examples that support the three moves — capture, write, connect.
