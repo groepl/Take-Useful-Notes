@@ -18,7 +18,11 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 <small>Download: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a</small>
 
 # History
-My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **[MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)**
+**11.01.2022**
+My first book was about "Digital Sketchnotes". 
+
+**05.03.2022**
+Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: [MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)
 
 <img src="/Visuals/Cover_e1_2_small.png" width="250" />
 
