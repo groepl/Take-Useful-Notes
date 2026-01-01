@@ -6,7 +6,12 @@
 ![](https://badgen.net/twitter/follow/groepl?icon=twitter) 
 ![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
 
-# MAKE USEFUL NOTES
+# The Minimalist's Zettelkasten
+Stop drowning in notes. Start thinking clearly. Most productivity systems promise to help you capture everything. This book offers something better: the courage to capture almost nothing.
+
+The Minimalist's Zettelkasten strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work.
+
+# History
 My first book was about Digital Sketchnotes. Now I have support from my Zettelkasten. Writing a second book in parallel is always a good choice: **[MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)**
 
 <img src="/Visuals/Cover_e1_2_small.png" width="250" />
