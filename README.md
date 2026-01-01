@@ -40,7 +40,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="100" />
 
-- _The Minimalist's Zettelkasten_.
+- _The Minimalist's Zettelkasten. Think Better with Less_.
 - My third book project.
 - Now at v.20 and in the beta-reading stage.
 - Self-publishing on KDP is planned for early 2026.
