@@ -24,7 +24,7 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 **05.03.2022**
 
-<img src="/Visuals/Cover_e1_2_small.png" width="150" />
+<img src="/Visuals/Cover_e1_2_small.png" width="100" />
 
 - _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_. My second book project.
 - Project stopped with v.18 to start new project. Increasing complexity evolving from the established outline needs a fresh start.
