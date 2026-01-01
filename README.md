@@ -24,7 +24,8 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 - _Digital Sketchnotes_.
 - My first book project.
-- Project stopped with v.33 and 184 pages to start new project. Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
+- Project stopped with v.33 and 184 pages to start new project.
+- Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
 
 **05.03.2022**
 
@@ -32,7 +33,8 @@ The provided podcast from NotebookLM consists of excerpts from a book titled "Th
 
 - _[Make Useful Notes. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets)_.
 - My second book project.
-- Project stopped with v.18 and 233 pages to start new project. Increasing complexity evolving from the established outline needs a fresh start.
+- Project stopped with v.18 and 233 pages to start new project.
+- Increasing complexity evolving from the established outline needs a fresh start.
 
 **10.09.2025**
 
