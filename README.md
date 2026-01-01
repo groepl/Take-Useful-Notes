@@ -7,9 +7,9 @@
 ![](https://badgen.net/github/license/groepl/Smart-Sketchnotes/)
 
 # The Minimalist's Zettelkasten
-_Stop drowning in notes. Start thinking clearly._ - Most productivity systems promise to help you capture everything. This book offers something better: the courage to capture almost nothing.
+_Stop drowning in notes. Start thinking clearly._ 
 
-The Minimalist's Zettelkasten strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work.
+Most productivity systems promise to help you capture everything. This book offers something better: the courage to capture almost nothing. The Minimalist's Zettelkasten strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work.
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="200" />
 
