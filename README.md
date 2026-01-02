@@ -33,7 +33,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - _Digital Sketchnotes_.
 - My first book project.
 - Project stopped with v.33 and 184 pages to start new project.
-- Why? Focus shifted from visual notetaking to combine sketchnotes with Zettelkasten.
+- Why? Focus shifted from visual notetaking to combining sketchnotes with Zettelkasten.
 
 **05.03.2022**
 
