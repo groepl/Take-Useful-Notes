@@ -17,7 +17,9 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 -	[Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates): minimal examples that support the three moves — capture, write, connect.
 -	[Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit): a small, ready-to-use Obsidian vault with the essential note types and workflows described in this book.
 
-- [The Minimalist’s Zettelkasten - Figures](https://github.com/groepl/Take-Useful-Notes/tree/main/Visuals/Figures)
+**Notes & Figures**
+- 
+- [The Minimalist’s Zettelkasten - Figures](https://github.com/groepl/Take-Useful-Notes/tree/main/Visuals/Figures): all figures from the book to zoom in for details.
 
 **Previews**
 - Podcast from NotebookLM: [The Minimalist’s Zettelkasten](https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a) (download .m4a audio)<br>
