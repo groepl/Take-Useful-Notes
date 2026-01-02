@@ -18,7 +18,6 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 -	[Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit): a small, ready-to-use Obsidian vault with the essential note types and workflows described in this book.
 
 **Notes & Figures**
-- 
 - [The Minimalist’s Zettelkasten - Figures](https://github.com/groepl/Take-Useful-Notes/tree/main/Visuals/Figures): all figures from the book to zoom in for details.
 
 **Previews**
