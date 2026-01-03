@@ -22,7 +22,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - [The Minimalist’s Zettelkasten - Figures](https://github.com/groepl/Take-Useful-Notes/tree/main/Visuals/Figures): all figures from the book to zoom in for details.
 
 **Previews**
-- Podcast from NotebookLM: [The Minimalist’s Zettelkasten](https://youtu.be/aynr1wJIULk?si=IKk1DwVv4uv0GNpT) (YouTube)<br>
+- Podcast from NotebookLM on YouTube: [The Minimalist’s Zettelkasten](https://youtu.be/aynr1wJIULk?si=IKk1DwVv4uv0GNpT)<br>
 - Simple rules to start with from: [The Minimalist’s Zettelkasten](https://www.linkedin.com/posts/groepl_the-book-is-at-beta-reading-stage-publication-activity-7411356696914157568-jAFa/)
 
 # History
