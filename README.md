@@ -41,7 +41,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 
 - _[Make Useful Notes](https://github.com/groepl/Take-Useful-Notes/tree/main/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf)_.
 - My second book project.
-- Project stopped with v.18 and 233 pages to start new project.
+- Project stopped at 24.07.2023 with v.18 and 233 pages to start new project.
 - Why? Increasing complexity evolving from the established outline needs a fresh start.
 
 **10.09.2025**
