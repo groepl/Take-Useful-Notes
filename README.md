@@ -52,6 +52,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - My third book project.
 - Now at v.20 and in the beta-reading stage.
 - Self-publishing on KDP is planned for early 2026.
+- Read the first chapter
 
 **18.02.2026**
 
