@@ -65,7 +65,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - [Read the first chapter](https://github.com/groepl/Take-Useful-Notes/blob/main/Assets/Zettelkasten_Philosophers_v03_2026-03-10_read_first_chapter.pdf)
 - [German National Library](https://d-nb.info/1394026420/)
 
-**18.03.2026**
+**22.02.2026**
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Cover_Economists_2026-05-03.png" width="100" />
 
