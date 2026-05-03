@@ -76,8 +76,6 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 
 **18.03.2026**
 
-<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Cover_Economists_2026-05-03.png" width="100" />
-
 - _The Politician's Zettelkasten. A Pocket Dictionary._
 - My 6th book project.
 - Now at v01.
