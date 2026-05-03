@@ -67,9 +67,9 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 
 **18.03.2026**
 
-<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/KDP_Cover_Economists_2026-05-03.png" width="100" />
+<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Cover_Economists_2026-05-03.png" width="100" />
 
-- _The Politician's Zettelkasten. A Pocket Dictionary._
+- _The Economist's Zettelkasten. A Pocket Dictionary._
 - My 5th book project.
 - Now at v01.
 - Self-publishing on KDP is planned for late 2026.
