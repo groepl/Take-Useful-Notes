@@ -73,6 +73,15 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - My 5th book project.
 - Now at v01.
 - Self-publishing on KDP is planned for late 2026.
+
+**18.03.2026**
+
+<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Cover_Economists_2026-05-03.png" width="100" />
+
+- _The Politician's Zettelkasten. A Pocket Dictionary._
+- My 6th book project.
+- Now at v01.
+- Self-publishing on KDP is planned for late 2026.
   
 ## Sketchnotes
 Sketchnotes are a way of taking notes using drawings and illustrations, along with words. The sketchnote concept was coined by Mike Rohde and allows you to add visual element to your notes, making it more engaging, memorable and easy to understand the subject.
