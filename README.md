@@ -11,7 +11,7 @@ _Stop drowning in notes. Start thinking clearly._
 
 Most productivity systems promise to help you capture everything. This book offers something better: the courage to capture almost nothing. The Minimalist's Zettelkasten strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work.
 
-<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="200" />
+<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_2026-05-03.png" width="200" />
 
 _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gröpl, is set to be independently published in early 2026. For readers who want to put these principles into practice, I’ve created two open resources on GitHub:
 -	[Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates): minimal examples that support the three moves — capture, write, connect.
@@ -46,7 +46,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 
 **10.09.2025**
 
-<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_small_2025-11-27.png" width="100" />
+<img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_2026-05-03.png" width="100" />
 
 - _The Minimalist's Zettelkasten. Think Better with Less_.
 - My third book project.
