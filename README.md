@@ -61,7 +61,7 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 - _The Philosopher's Zettelkasten. A Pocket Dictionary._
 - My 4th book project.
 - Now at v04.
-- Self-published on Amazon KDP, June 2026.
+- Self-published on Amazon KDP.
 - [Read the first chapter](https://github.com/groepl/Take-Useful-Notes/blob/main/Assets/Zettelkasten_Philosophers_v03_2026-03-10_read_first_chapter.pdf)
 - [Available at German National Library](https://d-nb.info/1394026420/)
 - [Available at Amazon](https://www.amazon.de/-/en/dp/B0H7C84G6C/) since 30.06.2026
