@@ -48,7 +48,8 @@ _The Minimalist’s Zettelkasten: Think Better with Less_, authored by Edmund Gr
 
 <img src="https://github.com/groepl/Take-Useful-Notes/blob/main/Visuals/Minimalists_TitlePage_2026-05-03.png" width="100" />
 
-- _The Minimalist's Zettelkasten. Think Better with Less_.
+_The Minimalist's Zettelkasten. Think Better with Less_.
+- It strips the popular note-taking method down to its essence—three simple moves repeated over time. No complicated software. No thousand-note archives. No digital hoarding disguised as knowledge work. This is not a comprehensive manual. It’s a pocket guide you can read in an afternoon and apply immediately. Whether you’re new to Zettelkasten or buried under years of accumulated notes, this book offers a way forward: lighter, clearer, freer.
 - My third book project.
 - Now at v.20 and in the beta-reading stage.
 - Self-publishing on KDP is planned for late 2026.
